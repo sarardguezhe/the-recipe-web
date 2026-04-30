@@ -2,3 +2,8 @@
   --swiper-navigation-color: oklch(60.6% 0.25 292.717);
   --swiper-pagination-color: oklch(60.6% 0.25 292.717);
 }
+
+.clip-slider-home {
+  clip-path: ellipse(120% 60% at 50% 40%);
+  -webkit-clip-path: ellipse(120% 60% at 50% 40%);
+}
